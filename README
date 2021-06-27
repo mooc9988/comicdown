@@ -1,4 +1,4 @@
 # 一个用来下载nhentai.net中绅士漫画的简单程序
-# 需要预先配置curl和科学上网
+# 需要预先配置curl环境并科学上网
 # A simple program to download hentai comic from nhentai.net
 # Need curl beforehand.
